@@ -42,7 +42,7 @@ Yazılım dünyasında **frontend**, **backend**, bazen de **mobil** tarafta ken
 <h2 align="center">📫 Bana Ulaş</h2>
 
 <p align="center">
-  <a href=["https://linkedin.com/in/Umutcan Aykaş](https://www.linkedin.com/feed/)" target="_blank">
+  <a href=["https://linkedin.com/in/Umutcan Aykaş]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
